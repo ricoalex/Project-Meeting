@@ -1,7 +1,7 @@
 # API
 
 ```
-https://project-meeting.herokuapp.com/api/time
+https://project-meeting.herokuapp.com/api/
 ```
 
 **News Routes:**
