@@ -1,4 +1,8 @@
-# Routes
+# API
+
+```
+https://project-meeting.herokuapp.com/api/time
+```
 
 **News Routes:**
 
